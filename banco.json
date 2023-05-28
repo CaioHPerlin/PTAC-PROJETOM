@@ -1,0 +1,31 @@
+{
+  "alunos": [
+    {
+      "id": 1,
+      "nome": "Moonie de Oliveira Medeiros",
+      "num_inscricao": 1313,
+      "curso": "Informática",
+      "horas_comp": 999
+    },
+    {
+      "id": 2,
+      "nome": "Arthas M Redigolo",
+      "num_inscricao": 2222,
+      "curso": "Informática",
+      "horas_comp": 25
+    },
+    {
+      "id": 3,
+      "nome": "Caio H P Lima",
+      "num_inscricao": 1002,
+      "curso": "Informática",
+      "horas_comp": 499
+    },
+    {
+      "nome": "Robertão",
+      "curso": "Informática",
+      "num_inscricao": "98",
+      "id": 4
+    }
+  ]
+}
