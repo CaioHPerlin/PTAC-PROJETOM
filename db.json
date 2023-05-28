@@ -20,12 +20,6 @@
       "num_inscricao": 1002,
       "curso": "Informática",
       "horas_comp": 499
-    },
-    {
-      "nome": "Robertão",
-      "curso": "Informática",
-      "num_inscricao": "98",
-      "id": 4
     }
   ]
 }
