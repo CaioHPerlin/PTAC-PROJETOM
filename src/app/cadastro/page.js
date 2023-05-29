@@ -67,7 +67,7 @@ export default function Cadastro() {
           placeholder="HORAS DE ATIVIDADE COMPLEMENTAR"
           nome="horas_comp"
           type="number"
-          onChange={(e) => setNum_inscricao(e.target.value)}
+          onChange={(e) => setHoras_comp(e.target.value)}
           required={true}
         ></input>
         <br />
